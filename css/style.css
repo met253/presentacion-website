@@ -5,6 +5,9 @@ body {
 
 .main-web {
     color: red;
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
 
 }
 
@@ -31,4 +34,9 @@ header {
 .card-about:hover{
 width: 290px;
 background-color: aqua;
+}
+footer{
+    background-color: brown;
+    width: 100%;
+    height: 100px;
 }
